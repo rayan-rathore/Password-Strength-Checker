@@ -1,3 +1,8 @@
+<img width="1919" height="1079" alt="Screenshot 2026-06-29 180545" src="https://github.com/user-attachments/assets/42f0d7ed-43ea-4bd9-aaa9-39404f272114" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-29 180526" src="https://github.com/user-attachments/assets/98b7f1bf-4c51-433e-92d2-8d9d41d336fa" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-29 180505" src="https://github.com/user-attachments/assets/7efd2c26-0bd6-4735-8b64-ed01c7f7411a" />
+
+
 # Password Strength Checker
 
 A Python-based password analysis tool that evaluates password strength using multiple security checks and provides actionable feedback for improvement.
